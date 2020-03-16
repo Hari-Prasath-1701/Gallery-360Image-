@@ -1,14 +1,4 @@
-var firebaseConfig = {
-    apiKey: "AIzaSyB0wvsMig0uU4leN_05sxDdXDAkw3_oD6U",
-    authDomain: "scalevr-4d9c9.firebaseapp.com",
-    databaseURL: "https://scalevr-4d9c9.firebaseio.com",
-    projectId: "scalevr-4d9c9",
-    storageBucket: "scalevr-4d9c9.appspot.com",
-    messagingSenderId: "226638434033",
-    appId: "1:226638434033:web:09805222626254247c2350"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
+//Your Firebase Config here
 
   var storageRef = firebase.storage().ref();
 
